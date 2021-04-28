@@ -10,7 +10,7 @@ Till now implemented:
 ***
 Screenshots:  
 1. Merge Sort:  
-![screenshots/m-sort]
+![m-sort](screenshots/m_sort.png)
 
 2. Quick Sort:
-![screenshots/q_sort]
+![q_sort](screenshots/q_sort.png)
