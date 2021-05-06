@@ -5,6 +5,7 @@ These are the sorting algorithms.
 Till now implemented:  
 1. Merge Sort
 2. Quick Sort
+3. Bubble Sort
 ***
 **Will be adding more soon**
 ***
